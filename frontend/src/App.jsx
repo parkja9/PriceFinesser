@@ -2,7 +2,7 @@ import { useState } from 'react'
 import axios from 'axios'
 import './App.css'
 
-const API = 'http://localhost:3001'
+const API = 'https://pricefinesser.onrender.com'
 
 const CATEGORIES = [
   { label: 'All', emoji: '' },
